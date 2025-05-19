@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Environment variables (CRA and others)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build output
+build/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage reports (e.g., from Jest)
+coverage/
+
+# VSCode settings (optional)
+.vscode/
+
+# Misc
+*.tgz
